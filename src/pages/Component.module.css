@@ -1,0 +1,284 @@
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-red-200);
+  box-shadow: 0 4px 8px 8px rgba(169, 157, 157, 0.25);
+  width: 1920px;
+  height: 64px;
+}
+.div1,
+.div2,
+.div3 {
+  position: absolute;
+  top: 691px;
+  left: 485px;
+  display: inline-block;
+}
+.div2,
+.div3 {
+  top: 462px;
+  left: 477px;
+}
+.div3 {
+  top: 579px;
+  left: 474px;
+}
+.cmDiv,
+.div4,
+.div5,
+.dummygmailcomDiv,
+.kgDiv {
+  position: absolute;
+  top: 803px;
+  left: 485px;
+  display: inline-block;
+}
+.cmDiv,
+.div5,
+.dummygmailcomDiv,
+.kgDiv {
+  top: 923px;
+}
+.cmDiv,
+.dummygmailcomDiv,
+.kgDiv {
+  top: 799px;
+  left: 621px;
+}
+.dummygmailcomDiv,
+.kgDiv {
+  top: 918px;
+  left: 628px;
+}
+.dummygmailcomDiv {
+  top: 349px;
+  left: 467px;
+}
+.rectangleDiv1 {
+  position: absolute;
+  top: 1389px;
+  left: 569px;
+  border-radius: var(--br-md);
+  background-color: var(--color-teal-100);
+  box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.25);
+  width: 166px;
+  height: 61px;
+  cursor: pointer;
+}
+.editDiv {
+  top: 1403px;
+  left: 595px;
+  font-size: var(--font-size-3xl);
+  color: var(--color-gray-300);
+  text-align: center;
+  width: 119px;
+  height: 24px;
+}
+.editDiv,
+.profilePictureDiv,
+.uploadDiv {
+  position: absolute;
+  display: inline-block;
+}
+.uploadDiv {
+  top: 984px;
+  left: 1482px;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-300);
+  width: 119px;
+  height: 24px;
+}
+.profilePictureDiv {
+  top: 257px;
+  left: 1290px;
+  width: 412px;
+  height: 32px;
+}
+.rectangleDiv2 {
+  position: absolute;
+  top: 338px;
+  left: 1284px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-gray-1100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 488px;
+  height: 576px;
+}
+.fITSpan {
+  color: var(--color-gray-200);
+}
+.aMAFITP {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.aMAFITB,
+.profileB {
+  position: absolute;
+  display: inline-block;
+}
+.aMAFITB {
+  top: 5px;
+  left: 88px;
+  width: 464px;
+  height: 64px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  cursor: pointer;
+}
+.profileB {
+  top: 219px;
+  left: 226px;
+  font-size: var(--font-size-7xl);
+  width: 372px;
+  height: 78px;
+}
+.image19Icon {
+  position: absolute;
+  top: 0;
+  left: 1815px;
+  width: 64px;
+  height: 64px;
+  object-fit: cover;
+}
+.rectangleDiv3 {
+  position: absolute;
+  top: 1389px;
+  left: 354px;
+  border-radius: var(--br-md);
+  background-color: rgba(195, 43, 66, 0.73);
+  box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.25);
+  width: 166px;
+  height: 61px;
+}
+.backDiv,
+.image52Icon {
+  position: absolute;
+  cursor: pointer;
+}
+.backDiv {
+  top: 1403px;
+  left: 379px;
+  font-size: var(--font-size-3xl);
+  color: var(--color-gray-300);
+  text-align: center;
+  display: inline-block;
+  width: 115px;
+  height: 32px;
+}
+.image52Icon {
+  top: 2px;
+  left: 11px;
+  width: 65.07px;
+  height: 64px;
+  object-fit: cover;
+}
+.displayNameDiv {
+  position: absolute;
+  top: 16px;
+  left: 1531px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 373px;
+  height: 203px;
+}
+.rectangleDiv4 {
+  position: absolute;
+  top: 1047px;
+  left: 474px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-500);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 700px;
+  height: 240px;
+  opacity: 0.4;
+}
+.testaddressDiv {
+  position: absolute;
+  top: 1054px;
+  left: 493px;
+  display: inline-block;
+}
+.addressDiv,
+.displayName,
+.emailDiv,
+.heightDiv,
+.lastnameDiv,
+.nameDiv,
+.weightDiv {
+  position: absolute;
+  top: 579px;
+  left: 149px;
+  text-align: right;
+  display: inline-block;
+  width: 293px;
+  height: 70px;
+}
+.addressDiv,
+.displayName,
+.emailDiv,
+.heightDiv,
+.nameDiv,
+.weightDiv {
+  top: 691px;
+  left: 76px;
+  width: 364px;
+}
+.addressDiv,
+.emailDiv,
+.heightDiv,
+.nameDiv,
+.weightDiv {
+  top: 349px;
+  left: 278px;
+  width: 158px;
+  height: 53px;
+}
+.addressDiv,
+.heightDiv,
+.nameDiv,
+.weightDiv {
+  top: 1047px;
+  left: 184px;
+  width: 262px;
+}
+.heightDiv,
+.nameDiv,
+.weightDiv {
+  top: 804px;
+  left: 268px;
+  width: 178px;
+  height: 70px;
+}
+.nameDiv,
+.weightDiv {
+  top: 930px;
+  left: 185px;
+  width: 263px;
+}
+.nameDiv {
+  top: 469px;
+  left: 238px;
+  width: 198px;
+  height: 78px;
+}
+.polygonIcon {
+  position: absolute;
+  top: 34.25px;
+  left: 1888.14px;
+  width: 14.72px;
+  height: 12.75px;
+}
+.div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1741px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-800);
+  font-family: var(--font-inter);
+}

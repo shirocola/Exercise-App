@@ -1,0 +1,170 @@
+.rectangleDiv {
+  position: absolute;
+  top: 568px;
+  left: 360px;
+  border-radius: 42px;
+  background-color: rgba(254, 246, 237, 0.7);
+  box-shadow: 0 4px 4px 8px rgba(0, 0, 0, 0.09);
+  width: 1200px;
+  height: 600px;
+}
+.rectangleDiv1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-red-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1920px;
+  height: 64px;
+}
+.fITSpan {
+  color: var(--color-gray-200);
+}
+.aMAFITB,
+.loginB,
+.passwordB {
+  position: absolute;
+  display: inline-block;
+}
+.aMAFITB {
+  top: 0;
+  left: 54px;
+  font-size: var(--font-size-6xl);
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  color: var(--color-gray-800);
+}
+.loginB,
+.passwordB {
+  width: 312px;
+  height: 78px;
+}
+.loginB {
+  top: 600px;
+  left: 804px;
+  font-size: var(--font-size-7xl);
+  text-align: center;
+}
+.passwordB {
+  top: 850px;
+  left: 395px;
+}
+.rectangleDiv2,
+.rectangleDiv3 {
+  position: absolute;
+  top: 846px;
+  left: 648px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-1200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 686px;
+  height: 78px;
+}
+.rectangleDiv3 {
+  top: 723px;
+}
+.emailB {
+  position: absolute;
+  top: 738px;
+  left: 426px;
+  display: inline-block;
+}
+.rectangleDiv4,
+.rectangleDiv5 {
+  position: absolute;
+  top: 1008px;
+  border-radius: var(--br-md);
+  box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.25);
+  width: 250px;
+  height: 75px;
+  cursor: pointer;
+}
+.rectangleDiv4 {
+  left: 1016px;
+  background-color: rgba(26, 38, 90, 0.73);
+}
+.rectangleDiv5 {
+  left: 687px;
+  background-color: var(--color-teal-200);
+}
+.registerB {
+  top: 1022px;
+  left: 1061px;
+  font-size: var(--font-size-4xl);
+  color: var(--color-gray-100);
+  width: 161px;
+  height: 46px;
+}
+.forgotPasswordDiv,
+.registerB,
+.signInB {
+  position: absolute;
+  text-align: center;
+  display: inline-block;
+}
+.signInB {
+  top: 1024px;
+  left: 752px;
+  font-size: var(--font-size-4xl);
+  color: var(--color-gray-100);
+  cursor: pointer;
+}
+.forgotPasswordDiv {
+  top: 942px;
+  left: 1180px;
+  font-size: 16px;
+  color: var(--color-gray-800);
+  width: 154px;
+  height: 38px;
+}
+.arrowIcon {
+  position: absolute;
+  top: 1249.95px;
+  left: 867.25px;
+  width: 22.08px;
+  height: 0.05px;
+}
+.span {
+  color: var(--color-white);
+}
+.fITSpan1 {
+  color: #fc541e;
+}
+.aMAFITDiv {
+  position: absolute;
+  top: 225px;
+  left: 435px;
+  font-size: 200px;
+  font-family: var(--font-righteous);
+  display: inline-block;
+  width: 1473px;
+  height: 151px;
+  text-shadow: 10px 4px 9px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #fff;
+  color: #907e7e;
+}
+.icon,
+.image51Icon {
+  position: absolute;
+  top: 209px;
+  left: 865px;
+  width: 303px;
+  height: 277px;
+  object-fit: cover;
+}
+.image51Icon {
+  top: 0;
+  left: 0;
+  width: 65.07px;
+  height: 64px;
+}
+.loginDiv {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1250px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-900);
+  font-family: var(--font-inter);
+}

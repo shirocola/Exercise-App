@@ -1,0 +1,13 @@
+.rectangleDiv {
+  position: absolute;
+  top: -52px;
+  left: 777px;
+  background-color: var(--color-white);
+  width: 1060px;
+  height: 388px;
+}
+.menuDiv {
+  position: relative;
+  width: 100%;
+  height: 346px;
+}
